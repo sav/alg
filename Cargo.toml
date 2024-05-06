@@ -1,0 +1,12 @@
+[package]
+name = "alg"
+version = "0.1.0"
+edition = "2021"
+license = "MIT"
+readme = "README.md"
+description = "A collection of algorithms and data structures in Rust."
+homepage = "https://github.com/sav/alg"
+repository = "git@github.com:sav/alg.git"
+keywords = ["algorithm", "data-structure", "competitive"]
+
+[dependencies]
